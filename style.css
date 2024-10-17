@@ -1,0 +1,32 @@
+
+div.container{
+    position: absolute;
+    align-self: center;
+    background-color: blueviolet;
+    width: 60%;
+    height: 50%;
+    border-radius: 5px;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 23px;
+    margin-top: 30px;
+    color: #fff;
+}
+button{
+    font-size: 18px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    align-items: center;
+    width: 120px;
+    margin-left: 4px;
+    margin-top: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
